@@ -105,18 +105,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Usama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raiusamakhalid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raiusamakhalid&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Education
 
 **BS Computer Science** — Minhaj University Lahore *(Sept 2019 – May 2023)*
